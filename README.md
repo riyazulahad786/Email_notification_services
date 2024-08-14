@@ -1,4 +1,4 @@
-api = "http://localhost:8080/api/notify
+api = "http://localhost:8080/api/notify"
 Port number use either 8080(env)  or 3000
 
 test on postmen
